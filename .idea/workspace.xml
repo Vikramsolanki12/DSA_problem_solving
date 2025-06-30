@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c64c6c2c-0ab4-4267-ab5d-0d65f3012346" name="Changes" comment="" />
+    <list default="true" id="c64c6c2c-0ab4-4267-ab5d-0d65f3012346" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Day-01/contains_duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-01/is_array_sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-01/remove_duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-01/reverse_element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-02/two_sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DSA-problem_solving.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DSA-problem_solving.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day-01/two_sum.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2y5c5AooD07loD6QQ2y7b0WlHfD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -17,11 +39,30 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.contains_duplicate.executor": "Run",
+    "Application.is_array_sorted.executor": "Run",
+    "Application.remove_duplicate.executor": "Run",
+    "Application.reverse_element.executor": "Run",
+    "Application.two_sum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/vikramsolanki/Documents/DSA/DSA-problem_solving"
+    "last_opened_file_path": "/Users/vikramsolanki/Documents/DSA/DSA-problem_solving",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Day-02" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
