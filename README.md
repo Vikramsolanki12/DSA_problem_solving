@@ -19,6 +19,8 @@ This repository is a collection of coding problems that I solve daily to improve
 | 9           | 3   | 2025-06-07 | \[maximum average subarray]        | Java     |
 | 10          | 3   | 2025-06-07 | \[Best time to buy and sell stock] | Java     |
 | 11          | 3   | 2025-06-07 | \[Merge Intervals]                 | Java     |
+| 12          | 4   | 2025-06-08 | \[Valid anagram]                   | Java     |
+| 13          | 4   | 2025-06-08 | \[valid palindrome]                | Java     |
 
 
 > I will continue adding problems daily as part of my DSA journey.
