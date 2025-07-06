@@ -72,9 +72,11 @@ This repository is a collection of coding problems that I solve daily to improve
 | 62          | 29  | 2025-07-03 | \[Reverse nodes in K group]        | Java     | Linked List             |
 | 63          | 29  | 2025-07-03 | \[swap nodes pair]                 | Java     | Linked List             |
 | 64          | 30  | 2025-07-04 | \[Merge two sorted linked list]    | Java     | Linked List             |
-| 65          | 30  | 2025-07-04 | \[Delete node in linked list]      | Java     | Linked List             |
-| 66          | 31  | 2025-07-05 | 
-
+| 65          | 30  | 2025-07-04 | \[flatten a multilevel doubly lis] | Java     | Linked List             |
+| 66          | 31  | 2025-07-05 | \[copy list with random pointer]   | Java     | Linked List             |
+| 67          | 31  | 2025-07-05 | \[partition list]                  | Java     | Linked List             |
+| 68          | 32  | 2025-07-06 | \[Merge k sorted list]             | Java     | Linked List             |
+| 69          | 32  | 2025-07-06 | \[Linked List cycle II]            | Java     | Linked List             |
 
 
 
