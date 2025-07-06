@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c64c6c2c-0ab4-4267-ab5d-0d65f3012346" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day-01/contains_duplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-01/is_array_sorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-01/remove_duplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-01/reverse_element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-02/two_sum.java" afterDir="false" />
+    <list default="true" id="c64c6c2c-0ab4-4267-ab5d-0d65f3012346" name="Changes" comment="Auto update on 2025-06-30 14:20:25">
       <change beforePath="$PROJECT_DIR$/.idea/DSA-problem_solving.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DSA-problem_solving.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-01/two_sum.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +21,22 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="vikram solanki &lt;vikramsolanki@vikrams-macbook-air.local&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Vikramsolanki12/DSA_problem_solving.git&quot;,
+    &quot;accountId&quot;: &quot;090f1da8-3fcb-43bd-abbd-7754bce8cf1f&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -39,11 +47,66 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Convert_binary_to_integer_LinkedList.executor": "Run",
+    "Application.Remove_duplicate_from_sorted_list.executor": "Run",
+    "Application.add_two_number.executor": "Run",
+    "Application.basic_calculator.executor": "Run",
+    "Application.basic_calculator_II.executor": "Run",
+    "Application.binary_search.executor": "Run",
+    "Application.bubble_sort.executor": "Run",
+    "Application.buy_sell_stock.executor": "Run",
     "Application.contains_duplicate.executor": "Run",
+    "Application.delete_node_in_linkedList.executor": "Run",
+    "Application.find_duplicate_number.executor": "Run",
+    "Application.group_anagram.executor": "Run",
+    "Application.heap_sort.executor": "Run",
+    "Application.implement_strStr.executor": "Run",
+    "Application.insertion_sort.executor": "Run",
+    "Application.integer_to_roman.executor": "Run",
+    "Application.intersection_of_two_linkedList.executor": "Run",
     "Application.is_array_sorted.executor": "Run",
+    "Application.linkedList_cycle.executor": "Run",
+    "Application.linkedList_middle_element.executor": "Run",
+    "Application.longest_common_prefix.executor": "Run",
+    "Application.longest_common_subsequence.executor": "Run",
+    "Application.longest_palindromic_subsequence.executor": "Run",
+    "Application.longest_palindromic_substring.executor": "Run",
+    "Application.longest_substring_without_repeating_char.executor": "Run",
+    "Application.longest_valid_parenthesis.executor": "Run",
+    "Application.majority_elements.executor": "Run",
+    "Application.maximum_avg_sub.executor": "Run",
+    "Application.merge_intervals.executor": "Run",
+    "Application.merge_sort.executor": "Run",
+    "Application.merge_two_sorted_list.executor": "Run",
+    "Application.minimum_window_substring.executor": "Run",
+    "Application.move_zeroes.executor": "Run",
+    "Application.odd_even_linked_list.executor": "Run",
+    "Application.palindrome_linked_list.executor": "Run",
+    "Application.permutation_in_string.executor": "Run",
+    "Application.product_of_array_except_self.executor": "Run",
+    "Application.quick_sort.executor": "Run",
     "Application.remove_duplicate.executor": "Run",
+    "Application.remove_nth_node_from_end.executor": "Run",
     "Application.reverse_element.executor": "Run",
+    "Application.reverse_linkedlist.executor": "Run",
+    "Application.reverse_nodes_in_Kgroup.executor": "Run",
+    "Application.reverse_string.executor": "Run",
+    "Application.roman_to_integer.executor": "Run",
+    "Application.rotate_array.executor": "Run",
+    "Application.selection_sort.executor": "Run",
+    "Application.set_matrix_zeroes.executor": "Run",
+    "Application.sort_colors.executor": "Run",
+    "Application.sort_list.executor": "Run",
+    "Application.spiral_matrix.executor": "Run",
+    "Application.string_to_integer.executor": "Run",
+    "Application.subarray_sum_k.executor": "Run",
+    "Application.swap_nodes_pair.executor": "Run",
+    "Application.text_justification.executor": "Run",
+    "Application.trapping_rain_water.executor": "Run",
     "Application.two_sum.executor": "Run",
+    "Application.valid_anagram.executor": "Run",
+    "Application.valid_palindrome.executor": "Run",
+    "Application.word_break.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -63,6 +126,20 @@
       <recent name="$PROJECT_DIR$/Day-02" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="permutation_in_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="permutation_in_string" />
+      <module name="DSA-problem_solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.permutation_in_string" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,6 +149,116 @@
       <option name="presentableId" value="Default" />
       <updated>1749127688650</updated>
     </task>
+    <task id="LOCAL-00001" summary="Auto update on 2025-06-30 14:20:25">
+      <option name="closed" value="true" />
+      <created>1751274005911</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751274005911</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Auto update on 2025-06-30 14:20:25">
+      <option name="closed" value="true" />
+      <created>1751285885029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751285885029</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Auto update on 2025-06-30 14:20:25">
+      <option name="closed" value="true" />
+      <created>1751349917882</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1751349917882</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Auto update on 2025-06-30 14:20:25">
+      <option name="closed" value="true" />
+      <created>1751430674853</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1751430674853</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Auto update on 2025-06-30 14:20:25">
+      <option name="closed" value="true" />
+      <created>1751445265288</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1751445265288</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Auto update on 2025-06-30 14:20:25">
+      <option name="closed" value="true" />
+      <created>1751548662019</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1751548662019</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Auto update on 2025-06-30 14:20:25">
+      <option name="closed" value="true" />
+      <created>1751561744436</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1751561744436</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Auto update on 2025-06-30 14:20:25">
+      <option name="closed" value="true" />
+      <created>1751575929567</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1751575929567</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Auto update on 2025-06-30 14:20:25">
+      <option name="closed" value="true" />
+      <created>1751653102271</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1751653102271</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Auto update on 2025-06-30 14:20:25">
+      <option name="closed" value="true" />
+      <created>1751654083646</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1751654083646</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Auto update on 2025-06-30 14:20:25">
+      <option name="closed" value="true" />
+      <created>1751657646207</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1751657646207</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Auto update on 2025-06-30 14:20:25">
+      <option name="closed" value="true" />
+      <created>1751659473901</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1751659473901</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Auto update on 2025-06-30 14:20:25">
+      <option name="closed" value="true" />
+      <created>1751659848799</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1751659848799</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="Auto update on 2025-06-30 14:20:25" />
+    <option name="LAST_COMMIT_MESSAGE" value="Auto update on 2025-06-30 14:20:25" />
   </component>
 </project>
