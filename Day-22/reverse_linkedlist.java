@@ -1,8 +1,4 @@
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int val) { this.val = val; }
-}
+
 public class reverse_linkedlist {
         public static ListNode reverseList(ListNode head) {
             ListNode prev = null;
