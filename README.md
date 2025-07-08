@@ -77,8 +77,8 @@ This repository is a collection of coding problems that I solve daily to improve
 | 67          | 31  | 2025-07-05 | \[partition list]                  | Java     | Linked List             |
 | 68          | 32  | 2025-07-06 | \[Merge k sorted list]             | Java     | Linked List             |
 | 69          | 32  | 2025-07-06 | \[Linked List cycle II]            | Java     | Linked List             |
-
-
+| 70          | 33  | 2025-07-07 | \[Design browser history]          | Java     | Linked List             |
+| 71          | 33  | 2025-07-07 | \[Remove Linked List elements]     | Java     | Linked List             |
 
 > I will continue adding problems daily as part of my DSA journey.
 
@@ -86,7 +86,7 @@ This repository is a collection of coding problems that I solve daily to improve
 
 ## 📁 How to Use
 
-- Each day has a separate folder: `Day01/`, `Day02/`, etc.
+- Each day has a separate folder: `Day-01/`, `Day-02/`, etc.
 - Open the folder to see the solution file.
 - Run the code in your preferred IDE or terminal.
 
