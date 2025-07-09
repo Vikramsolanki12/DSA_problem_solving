@@ -79,6 +79,11 @@ This repository is a collection of coding problems that I solve daily to improve
 | 69          | 32  | 2025-07-06 | \[Linked List cycle II]            | Java     | Linked List             |
 | 70          | 33  | 2025-07-07 | \[Design browser history]          | Java     | Linked List             |
 | 71          | 33  | 2025-07-07 | \[Remove Linked List elements]     | Java     | Linked List             |
+| 72          | 34  | 2025-07-08 | \[Reorder linked list]             | Java     | Linked List             |
+| 73          | 34  | 2025-07-08 | \[LRU cache]                       | Java     | Linked List             |
+| 74          | 35  | 2025-07-09 | \[Palindrome linked list II]       | Java     | Linked List             |
+| 75          | 35  | 2025-07-09 | \[Linked list in binary tree]      | Java     | Linked List             |
+
 
 > I will continue adding problems daily as part of my DSA journey.
 
