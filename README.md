@@ -83,6 +83,8 @@ This repository is a collection of coding problems that I solve daily to improve
 | 73          | 34  | 2025-07-08 | \[LRU cache]                       | Java     | Linked List             |
 | 74          | 35  | 2025-07-09 | \[Palindrome linked list II]       | Java     | Linked List             |
 | 75          | 35  | 2025-07-09 | \[Linked list in binary tree]      | Java     | Linked List             |
+| 76          | 36  | 2025-07-10 | \[Stack implementation using array]| Java     | Stack & Queue           |
+| 77          | 36  | 2025-07-10 | \[Queue implementation using array]| Java     | Stack & Queue           |
 
 
 > I will continue adding problems daily as part of my DSA journey.
