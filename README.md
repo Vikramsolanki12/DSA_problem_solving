@@ -85,6 +85,8 @@ This repository is a collection of coding problems that I solve daily to improve
 | 75          | 35  | 2025-07-09 | \[Linked list in binary tree]      | Java     | Linked List             |
 | 76          | 36  | 2025-07-10 | \[Stack implementation using array]| Java     | Stack & Queue           |
 | 77          | 36  | 2025-07-10 | \[Queue implementation using array]| Java     | Stack & Queue           |
+| 78          | 37  | 2025-07-11 | \[Min Stack]                       | Java     | Stack & Queue           |
+| 79          | 37  | 2025-07-11 | \[Queue implementation using stack]| Java     | Stack & Queue           |
 
 
 > I will continue adding problems daily as part of my DSA journey.
