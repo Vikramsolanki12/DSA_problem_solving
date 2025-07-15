@@ -87,10 +87,12 @@ This repository is a collection of coding problems that I solve daily to improve
 | 77          | 36  | 2025-07-10 | \[Queue implementation using array]| Java     | Stack & Queue           |
 | 78          | 37  | 2025-07-11 | \[Min Stack]                       | Java     | Stack & Queue           |
 | 79          | 37  | 2025-07-11 | \[Queue implementation using stack]| Java     | Stack & Queue           |
-| 80          | 38  | 2025-07-11 | \[Valid Parenthesis]               | Java     | Stack & Queue           |
-| 81          | 38  | 2025-07-11 | \[Number of Recent Cells]          | Java     | Stack & Queue           |
-| 82          | 39  | 2025-07-11 | \[Reverse Polish Notation]         | Java     | Stack & Queue           |
-| 83          | 39  | 2025-07-11 | \[Daily Temperatures]              | Java     | Stack & Queue           |
+| 80          | 38  | 2025-07-12 | \[Valid Parenthesis]               | Java     | Stack & Queue           |
+| 81          | 38  | 2025-07-12 | \[Number of Recent Cells]          | Java     | Stack & Queue           |
+| 82          | 39  | 2025-07-13 | \[Reverse Polish Notation]         | Java     | Stack & Queue           |
+| 83          | 39  | 2025-07-13 | \[Daily Temperatures]              | Java     | Stack & Queue           |
+| 84          | 40  | 2025-07-14 | \[Circular Queue]                  | Java     | Stack & Queue           |
+| 85          | 40  | 2025-07-14 | \[Next Greater Element I]          | Java     | Stack & Queue           |
 
 
 > I will continue adding problems daily as part of my DSA journey.
