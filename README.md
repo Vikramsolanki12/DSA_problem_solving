@@ -93,6 +93,8 @@ This repository is a collection of coding problems that I solve daily to improve
 | 83          | 39  | 2025-07-13 | \[Daily Temperatures]              | Java     | Stack & Queue           |
 | 84          | 40  | 2025-07-14 | \[Circular Queue]                  | Java     | Stack & Queue           |
 | 85          | 40  | 2025-07-14 | \[Next Greater Element I]          | Java     | Stack & Queue           |
+| 86          | 41  | 2025-07-15 | \[Moving Average from data stream] | Java     | Stack & Queue           |
+| 87          | 41  | 2025-07-15 | \[Evaluate Infix Expression]       | Java     | Stack & Queue           |
 
 
 > I will continue adding problems daily as part of my DSA journey.
