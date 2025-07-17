@@ -97,6 +97,8 @@ This repository is a collection of coding problems that I solve daily to improve
 | 87          | 41  | 2025-07-15 | \[Evaluate Infix Expression]       | Java     | Stack & Queue           |
 | 88          | 42  | 2025-07-16 | \[Next Greater Element II]         | Java     | Stack & Queue           |
 | 89          | 42  | 2025-07-16 | \[Sliding Window Maximum]          | Java     | Stack & Queue           |
+| 90          | 43  | 2025-07-17 | \[Asteroid Collision]              | Java     | Stack & Queue           |
+| 91          | 43  | 2025-07-17 | \[First Negative In Window]        | Java     | Stack & Queue           |
 
 
 > I will continue adding problems daily as part of my DSA journey.
