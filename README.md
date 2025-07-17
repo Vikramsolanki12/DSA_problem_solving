@@ -95,6 +95,8 @@ This repository is a collection of coding problems that I solve daily to improve
 | 85          | 40  | 2025-07-14 | \[Next Greater Element I]          | Java     | Stack & Queue           |
 | 86          | 41  | 2025-07-15 | \[Moving Average from data stream] | Java     | Stack & Queue           |
 | 87          | 41  | 2025-07-15 | \[Evaluate Infix Expression]       | Java     | Stack & Queue           |
+| 88          | 42  | 2025-07-16 | \[Next Greater Element II]         | Java     | Stack & Queue           |
+| 89          | 42  | 2025-07-16 | \[Sliding Window Maximum]          | Java     | Stack & Queue           |
 
 
 > I will continue adding problems daily as part of my DSA journey.
