@@ -99,6 +99,8 @@ This repository is a collection of coding problems that I solve daily to improve
 | 89          | 42  | 2025-07-16 | \[Sliding Window Maximum]          | Java     | Stack & Queue           |
 | 90          | 43  | 2025-07-17 | \[Asteroid Collision]              | Java     | Stack & Queue           |
 | 91          | 43  | 2025-07-17 | \[First Negative In Window]        | Java     | Stack & Queue           |
+| 92          | 44  | 2025-07-18 | \[Decode String]                   | Java     | Stack & Queue           |
+| 93          | 44  | 2025-07-18 | \[Rotten Oranges]                  | Java     | Stack & Queue           |
 
 
 > I will continue adding problems daily as part of my DSA journey.
