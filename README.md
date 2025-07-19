@@ -101,6 +101,8 @@ This repository is a collection of coding problems that I solve daily to improve
 | 91          | 43  | 2025-07-17 | \[First Negative In Window]        | Java     | Stack & Queue           |
 | 92          | 44  | 2025-07-18 | \[Decode String]                   | Java     | Stack & Queue           |
 | 93          | 44  | 2025-07-18 | \[Rotten Oranges]                  | Java     | Stack & Queue           |
+| 94          | 45  | 2025-07-19 | \[Stack Implementation using Queue]| Java     | Stack & Queue           |
+| 95          | 45  | 2025-07-19 | \[Remove Invalid Parenthesis]      | Java     | Stack & Queue           |
 
 
 > I will continue adding problems daily as part of my DSA journey.
