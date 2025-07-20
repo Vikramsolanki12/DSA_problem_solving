@@ -103,6 +103,8 @@ This repository is a collection of coding problems that I solve daily to improve
 | 93          | 44  | 2025-07-18 | \[Rotten Oranges]                  | Java     | Stack & Queue           |
 | 94          | 45  | 2025-07-19 | \[Stack Implementation using Queue]| Java     | Stack & Queue           |
 | 95          | 45  | 2025-07-19 | \[Remove Invalid Parenthesis]      | Java     | Stack & Queue           |
+| 96          | 46  | 2025-07-20 | \[Design Hit Counter]              | Java     | Stack & Queue           |
+| 97          | 46  | 2025-07-20 | \[Remove K digits]                 | Java     | Stack & Queue           |
 
 
 > I will continue adding problems daily as part of my DSA journey.
