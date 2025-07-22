@@ -105,6 +105,8 @@ This repository is a collection of coding problems that I solve daily to improve
 | 95          | 45  | 2025-07-19 | \[Remove Invalid Parenthesis]      | Java     | Stack & Queue           |
 | 96          | 46  | 2025-07-20 | \[Design Hit Counter]              | Java     | Stack & Queue           |
 | 97          | 46  | 2025-07-20 | \[Remove K digits]                 | Java     | Stack & Queue           |
+| 98          | 47  | 2025-07-21 | \[Basic Calculator II]             | Java     | Stack & Queue           |
+| 99          | 47  | 2025-07-21 | \[Max in Sliding Window]           | Java     | Stack & Queue           |
 
 
 > I will continue adding problems daily as part of my DSA journey.
