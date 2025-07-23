@@ -107,6 +107,8 @@ This repository is a collection of coding problems that I solve daily to improve
 | 97          | 46  | 2025-07-20 | \[Remove K digits]                 | Java     | Stack & Queue           |
 | 98          | 47  | 2025-07-21 | \[Basic Calculator II]             | Java     | Stack & Queue           |
 | 99          | 47  | 2025-07-21 | \[Max in Sliding Window]           | Java     | Stack & Queue           |
+| 100         | 48  | 2025-07-22 | \[Walls and Gates]                 | Java     | Stack & Queue           |
+| 101         | 48  | 2025-07-22 | \[My Circular Deque]               | Java     | Stack & Queue           |
 
 
 > I will continue adding problems daily as part of my DSA journey.
