@@ -109,6 +109,8 @@ This repository is a collection of coding problems that I solve daily to improve
 | 99          | 47  | 2025-07-21 | \[Max in Sliding Window]           | Java     | Stack & Queue           |
 | 100         | 48  | 2025-07-22 | \[Walls and Gates]                 | Java     | Stack & Queue           |
 | 101         | 48  | 2025-07-22 | \[My Circular Deque]               | Java     | Stack & Queue           |
+| 102         | 49  | 2025-07-23 | \[Score of Parentheses]            | Java     | Stack & Queue           |
+| 103         | 49  | 2025-07-23 | \[Design a Food Ranting System]    | Java     | Stack & Queue           |
 
 
 > I will continue adding problems daily as part of my DSA journey.
