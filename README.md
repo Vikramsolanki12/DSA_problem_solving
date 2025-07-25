@@ -113,6 +113,8 @@ This repository is a collection of coding problems that I solve daily to improve
 | 103         | 49  | 2025-07-23 | \[Design a Food Ranting System]    | Java     | Stack & Queue           |
 | 104         | 50  | 2025-07-24 | \[Largest Rectangle in Histogram]  | Java     | Stack & Queue           |
 | 105         | 50  | 2025-07-24 | \[Removing Stars form a String]    | Java     | Stack & Queue           |
+| 106         | 51  | 2025-07-25 | \[Word Ladder I]                   | Java     | Stack & Queue           |
+| 107         | 51  | 2025-07-25 | \[Sum of Subarray Minimums]        | Java     | Stack & Queue           |
 
 
 > I will continue adding problems daily as part of my DSA journey.
