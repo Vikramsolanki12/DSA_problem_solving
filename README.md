@@ -115,6 +115,8 @@ This repository is a collection of coding problems that I solve daily to improve
 | 105         | 50  | 2025-07-24 | \[Removing Stars form a String]    | Java     | Stack & Queue           |
 | 106         | 51  | 2025-07-25 | \[Word Ladder I]                   | Java     | Stack & Queue           |
 | 107         | 51  | 2025-07-25 | \[Sum of Subarray Minimums]        | Java     | Stack & Queue           |
+| 108         | 52  | 2025-07-26 | \[Reorganize String]               | Java     | Stack & Queue           |
+| 109         | 52  | 2025-07-26 | \[Flatten Binary tree to Linked List]| Java     | Stack & Queue           |
 
 
 > I will continue adding problems daily as part of my DSA journey.
