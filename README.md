@@ -117,6 +117,12 @@ This repository is a collection of coding problems that I solve daily to improve
 | 107         | 51  | 2025-07-25 | \[Sum of Subarray Minimums]        | Java     | Stack & Queue           |
 | 108         | 52  | 2025-07-26 | \[Reorganize String]               | Java     | Stack & Queue           |
 | 109         | 52  | 2025-07-26 | \[Flatten Binary tree to Linked List]| Java     | Stack & Queue           |
+| 110         | 53  | 2025-07-27 | \[Maximal Rectangle]               | Java     | Stack & Queue           |
+| 111         | 53  | 2025-07-27 | \[Longest Valid Parentheses]       | Java     | Stack & Queue           |
+| 112         | 54  | 2025-07-28 | \[Word Ladder II]                  | Java     | Stack & Queue           |
+| 113         | 54  | 2025-07-28 | \[132 Pattern]                     | Java     | Stack & Queue           |
+| 114         | 55  | 2025-07-29 | \[Rearrange String k Distance Apart]| Java     | Stack & Queue           |
+| 115         | 55  | 2025-07-29 | \[Serialize and Deserialize Binary Tree]| Java     | Stack & Queue           |
 
 
 > I will continue adding problems daily as part of my DSA journey.
