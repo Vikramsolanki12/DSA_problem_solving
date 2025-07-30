@@ -123,6 +123,8 @@ This repository is a collection of coding problems that I solve daily to improve
 | 113         | 54  | 2025-07-28 | \[132 Pattern]                     | Java     | Stack & Queue           |
 | 114         | 55  | 2025-07-29 | \[Rearrange String k Distance Apart]| Java     | Stack & Queue           |
 | 115         | 55  | 2025-07-29 | \[Serialize and Deserialize Binary Tree]| Java     | Stack & Queue           |
+| ***         | 56  | 2025-07-30 | \[Revison]                         | Java     | Stack & Queue           |
+| ***         | 56  | 2025-07-30 | \[Revison]                         | Java     | Stack & Queue           |
 
 
 > I will continue adding problems daily as part of my DSA journey.
