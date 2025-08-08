@@ -129,6 +129,20 @@ This repository is a collection of coding problems that I solve daily to improve
 | ***         | 57  | 2025-07-31 | \[Revison]                         | Java     | Stack & Queue           |
 | ***         | 58  | 2025-08-01 | \[Revison]                         | Java     | Stack & Queue           |
 | ***         | 58  | 2025-08-01 | \[Revison]                         | Java     | Stack & Queue           |
+| ***         | 59  | 2025-08-02 | \[Revison]                         | Java     | Stack & Queue           |
+| ***         | 59  | 2025-08-02 | \[Revison]                         | Java     | Stack & Queue           |
+| ***         | 60  | 2025-08-03 | \[Revison]                         | Java     | Stack & Queue           |
+| ***         | 60  | 2025-08-03 | \[Revison]                         | Java     | Stack & Queue           |
+| ***         | 61  | 2025-08-04 | \[Revison]                         | Java     | Stack & Queue           |
+| ***         | 61  | 2025-08-04 | \[Revison]                         | Java     | Stack & Queue           |
+| ***         | 62  | 2025-08-05 | \[Revison]                         | Java     | Stack & Queue           |
+| ***         | 62  | 2025-08-05 | \[Revison]                         | Java     | Stack & Queue           |
+| ***         | 63  | 2025-08-06 | \[Revison]                         | Java     | Stack & Queue           |
+| ***         | 63  | 2025-08-06 | \[Revison]                         | Java     | Stack & Queue           |
+| ***         | 64  | 2025-08-07 | \[Revison]                         | Java     | Stack & Queue           |
+| ***         | 64  | 2025-08-07 | \[Revison]                         | Java     | Stack & Queue           |
+| ***         | 65  | 2025-08-08 | \[Revison]                         | Java     | Stack & Queue           |
+| ***         | 65  | 2025-08-08 | \[Revison]                         | Java     | Stack & Queue           |
 
 
 > I will continue adding problems daily as part of my DSA journey.
